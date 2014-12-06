@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameMapEdit", "GameMapEdit\GameMapEdit\GameMapEdit.csproj", "{C8FFBB02-A984-4A0E-B582-AFA23F458952}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameMapEditContent", "GameMapEdit\GameMapEditContent\GameMapEditContent.contentproj", "{737127D4-F331-42DF-8E3D-ED19769FEE13}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{AF843149-0126-4FE5-811C-9CCBACB75B14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8FFBB02-A984-4A0E-B582-AFA23F458952}.Debug|x86.ActiveCfg = Debug|x86
+		{C8FFBB02-A984-4A0E-B582-AFA23F458952}.Debug|x86.Build.0 = Debug|x86
+		{C8FFBB02-A984-4A0E-B582-AFA23F458952}.Release|x86.ActiveCfg = Release|x86
+		{C8FFBB02-A984-4A0E-B582-AFA23F458952}.Release|x86.Build.0 = Release|x86
+		{737127D4-F331-42DF-8E3D-ED19769FEE13}.Debug|x86.ActiveCfg = Debug|x86
+		{737127D4-F331-42DF-8E3D-ED19769FEE13}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
